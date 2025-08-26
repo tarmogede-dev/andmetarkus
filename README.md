@@ -1,2 +1,2 @@
 # andmetarkus
-Kursuse Valii Andmetarkus materjalid
+Kursuse Vali Andmetarkus materjalid
